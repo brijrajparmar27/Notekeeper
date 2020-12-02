@@ -2,14 +2,21 @@
 
 An advanced notes keeper Application made in flutter
 
-## Getting Started
+## Features
+1. *Material UI*: A beautiful, minimalist user interface with subtle animations.
+2. *Dark mode*: Light and dark theme variants.
+3. *Hide notes*: Mark notes as hidden and filter them.
+4. *Search*: Search your notes.
+5. *Edit note*: Edit note that you saved previously
+6. *Share*: Share note using any app that can share text.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Dependencies
+ - sqflite:
+ - intl:
+ - flutter_staggered_grid_view:
+ - provider:
+ - shared_preferences:
+ - share:
 
 ## Download or Run the project
 - With Flutter installed, clone project and run `flutter run --release` in that directory,
