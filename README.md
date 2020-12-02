@@ -1,4 +1,4 @@
-<img src="icon/icon.png" align="right" height="130px" />
+<img src="icon/icon.png" align="right" height="120px" />
 
 # Notekeeper
 
@@ -25,6 +25,6 @@ An advanced notes keeper Application made in flutter
 or
 - Download the built APK from [here](https://github.com/brijrajparmar27/Flutter-Notes/raw/master/github_assets/app-release.apk)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Feedback is welcome! Contact me for any info.<br>
+Made with ❤ by Brijrajsinh parmar
