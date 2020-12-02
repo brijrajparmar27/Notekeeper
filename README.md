@@ -1,4 +1,4 @@
-<img src="girhub_assets/icon.png" align="right" />
+<img src="icon/icon.png" align="right" />
 
 # Notekeeper
 
