@@ -1,4 +1,4 @@
-<img src="icon/icon.png" align="right" height="30px" />
+<img src="icon/icon.png" align="right" height="100px" />
 
 # Notekeeper
 
