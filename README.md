@@ -4,6 +4,8 @@
 
 An advanced notes keeper Application made in flutter
 
+<img src="icon/template.jpg" align="center" width="100%" />
+
 ## Features
 1. *Material UI*: A beautiful, minimalist user interface with subtle animations.
 2. *Dark mode*: Light and dark theme variants.
@@ -13,7 +15,32 @@ An advanced notes keeper Application made in flutter
 6. *Share*: Share note using any app that can share text.
 
 ## Sneak peek
-<img src="icon/template.jpg" align="center" width="100%" />
+<table>
+	<tr>
+		<td style="background-color:#E2E2E2"><center>
+			<img src="icon/design.gif"></center>
+		</td>
+		<td>
+			<img src="icon/dark.gif">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="icon/create.gif">
+		</td>
+		<td>
+			<img src="icon/hide.gif">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="icon/delete.gif">
+		</td>
+		<td>
+			<img src="icon/share.gif">
+		</td>
+	</tr>
+</table>
 
 ## Dependencies
  - sqflite:
