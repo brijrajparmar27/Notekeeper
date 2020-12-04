@@ -55,6 +55,6 @@ An advanced notes keeper Application made in flutter
 or
 - Download the built APK from [here](https://github.com/brijrajparmar27/Flutter-Notes/raw/master/github_assets/app-release.apk)
 
-<br><br>
-Feedback is welcome! Contact me for any info.<br>
+<br><br><br>
+Feedback is welcome! Contact me for any info.<br><br>
 Made with ❤ by Brijrajsinh parmar
