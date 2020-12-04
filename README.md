@@ -1,21 +1,30 @@
-# notekeeper
+<img src="icon/icon.png" align="right" height="120px" />
 
-A simple notes keeper Application
+# Notekeeper
 
-## Getting Started
+An advanced notes keeper Application made in flutter
 
-This project is a starting point for a Flutter application.
+## Features
+1. *Material UI*: A beautiful, minimalist user interface with subtle animations.
+2. *Dark mode*: Light and dark theme variants.
+3. *Hide notes*: Mark notes as hidden and filter them.
+4. *Search*: Search your notes.
+5. *Edit note*: Edit note that you saved previously
+6. *Share*: Share note using any app that can share text.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+ - sqflite:
+ - intl:
+ - flutter_staggered_grid_view:
+ - provider:
+ - shared_preferences:
+ - share:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-## Run the project
+## Download or Run the project
 - With Flutter installed, clone project and run `flutter run --release` in that directory,
 or
 - Download the built APK from [here](https://github.com/brijrajparmar27/Flutter-Notes/raw/master/github_assets/app-release.apk)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br><br>
+Feedback is welcome! Contact me for any info.<br>
+Made with ❤ by Brijrajsinh parmar
