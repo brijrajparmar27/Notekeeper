@@ -13,7 +13,7 @@ An advanced notes keeper Application made in flutter
 6. *Share*: Share note using any app that can share text.
 
 ## Sneak peek
-<img src="icon/template.jpg" align="center" width="150%" />
+<img src="icon/template.jpg" align="center" width="100%" />
 
 ## Dependencies
  - sqflite:
